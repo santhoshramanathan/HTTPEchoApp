@@ -1,4 +1,4 @@
-@Library('one_click_pl@master')
+@Library('one_click_pl@main')
 
 import poc.lib.*
 acejobhandler('HTTPEchoApp')
